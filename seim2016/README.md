@@ -1,1 +1,1 @@
-# seim-landing
+# SEIM'16 landing page.
